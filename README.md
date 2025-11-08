@@ -3,7 +3,7 @@
 Because manually checking RSS feeds is for script kiddies.
 
 InfoSecBot is a no bullshit Discord bot that monitors CVE databases and security news feeds, then dumps everything straight into your Discord channels. Set it, forget it, stay informed.
-Built by hackers, for hackers. VX-Underground inspired. Zero fluff.
+Built by hackers, for hackers. Zero fluff.
 
 ## What It Does
 
