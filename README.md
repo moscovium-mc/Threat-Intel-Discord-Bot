@@ -27,7 +27,7 @@ Built by hackers, for hackers. Zero fluff.
 - **Webhook-based** - Fast, reliable, no database bullshit
 - **Configurable intervals** - Check feeds every 30 mins (default) or customize
 - **Docker support** - Containerized deployment ready
-- **TypeScript powered** - Type-safe, production-ready code
+- **TypeScript powered** - Type-safe
 
 **TL;DR:** Automated threat intelligence aggregator that actually works.
 
