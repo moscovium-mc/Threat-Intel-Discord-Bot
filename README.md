@@ -17,8 +17,6 @@ Because manually checking RSS feeds is for script kiddies.
 
 Automated threat intelligence aggregator for Discord. Monitors CVE databases, security news feeds, ransomware intel, and malware research - delivering real-time updates straight to your Discord channels. Set it, forget it, stay informed.
 
-Built by hackers, for hackers. Zero fluff.
-
 ## What it does
 
 - **10 security RSS feeds** - CVEs, security news, ransomware intel, malware drops
