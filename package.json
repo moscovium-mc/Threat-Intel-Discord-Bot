@@ -1,0 +1,25 @@
+{
+  "name": "infosecbot",
+  "version": "2.0.0",
+  "description": "Threat intelligence Discord bot",
+  "main": "dist/bot.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/bot.js",
+    "dev": "ts-node src/bot.ts"
+  },
+  "keywords": ["discord", "security", "threat-intelligence", "rss"],
+  "author": "stax",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "rss-parser": "^3.13.0",
+    "axios": "^1.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "typescript": "^5.3.3",
+    "ts-node": "^10.9.2"
+  }
+}
