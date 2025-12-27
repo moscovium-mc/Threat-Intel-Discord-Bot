@@ -149,7 +149,7 @@ docker-compose up -d
 ### CVE Alert
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🚨 CRITICAL CVE ALERT
+CRITICAL CVE ALERT
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 CVE-2024-XXXXX
@@ -168,7 +168,7 @@ Source: CISA KEV
 ### Security News
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📰 SECURITY NEWS
+SECURITY NEWS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Major Data Breach Affects Millions
@@ -184,7 +184,7 @@ Link: https://...
 ### Ransomware Intel
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💀 NEW RANSOMWARE VICTIM
+NEW RANSOMWARE VICTIM
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Group: LockBit 3.0
