@@ -42,7 +42,7 @@ client.once('ready', async () => {
   if (process.env.WEBHOOK_LOGS) {
     await WebhookPoster.logToWebhook(
       process.env.WEBHOOK_LOGS,
-      `🚀 InfoSecBot v2.0 by stax started successfully\n\`\`\`Connected to ${client.guilds.cache.size} servers\nConfigured ${webhooks.size} webhooks\`\`\``,
+      `🚀 InfoSecBot v2.0 by moscovium-mc started successfully\n\`\`\`Connected to ${client.guilds.cache.size} servers\nConfigured ${webhooks.size} webhooks\`\`\``,
       'info'
     );
   }
